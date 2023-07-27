@@ -1,2 +1,9 @@
-hi this is aravind 
-welcome
+
+import java.util.Scanner;
+public class Largest_Difference 
+{
+    public static void main(String[] args) 
+    {
+        int n, x, count = 0, i = 0, temp = 0;
+        Scanner s = new Scanner(System.in);
+        System.out.print("Enter n
